@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CalculateServices\CalculateServices\bin\Debug\net5.0\CalculateServices.exe
+C:\Users\user\source\repos\CalculateServices\CalculateServices\bin\Debug\net5.0\CalculateServices.deps.json
+C:\Users\user\source\repos\CalculateServices\CalculateServices\bin\Debug\net5.0\CalculateServices.runtimeconfig.json
+C:\Users\user\source\repos\CalculateServices\CalculateServices\bin\Debug\net5.0\CalculateServices.runtimeconfig.dev.json
+C:\Users\user\source\repos\CalculateServices\CalculateServices\bin\Debug\net5.0\CalculateServices.dll
+C:\Users\user\source\repos\CalculateServices\CalculateServices\bin\Debug\net5.0\ref\CalculateServices.dll
+C:\Users\user\source\repos\CalculateServices\CalculateServices\bin\Debug\net5.0\CalculateServices.pdb
+C:\Users\user\source\repos\CalculateServices\CalculateServices\obj\Debug\net5.0\CalculateServices.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CalculateServices\CalculateServices\obj\Debug\net5.0\CalculateServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CalculateServices\CalculateServices\obj\Debug\net5.0\CalculateServices.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CalculateServices\CalculateServices\obj\Debug\net5.0\CalculateServices.AssemblyInfo.cs
+C:\Users\user\source\repos\CalculateServices\CalculateServices\obj\Debug\net5.0\CalculateServices.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CalculateServices\CalculateServices\obj\Debug\net5.0\CalculateServices.dll
+C:\Users\user\source\repos\CalculateServices\CalculateServices\obj\Debug\net5.0\ref\CalculateServices.dll
+C:\Users\user\source\repos\CalculateServices\CalculateServices\obj\Debug\net5.0\CalculateServices.pdb
+C:\Users\user\source\repos\CalculateServices\CalculateServices\obj\Debug\net5.0\CalculateServices.genruntimeconfig.cache
